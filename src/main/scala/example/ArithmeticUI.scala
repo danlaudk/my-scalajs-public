@@ -1,5 +1,6 @@
 // inserts binary arithmetic operations between user input numbers, to make equations
 // 3 parts : an object for the Arithmetic algorithm, an object for the UI, and classes/objects for Signals to make UI reactive
+// the first part, 150 lines, is most relevant to recurse center (i think) 
 object Arithmetic {
   // a symbol is either a number or a binary operator
   trait Symbol {
