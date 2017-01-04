@@ -1,4 +1,7 @@
 // inserts binary arithmetic operations between user input numbers, to make equations
+// readme and problem statement is at https://github.com/danlaudk/my-scalajs-public/
+// or simply use it at https://danlaudk.github.io/my-scalajs-public/
+
 // 3 parts : an object for the Arithmetic algorithm, an object for the UI, and classes/objects for Signals to make UI reactive
 // the first part, 150 lines, is most relevant to recurse center (i think) 
 object Arithmetic {
